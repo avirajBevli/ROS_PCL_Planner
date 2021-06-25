@@ -1,0 +1,8 @@
+prefix=/home/aviraj/catkin_ws/devel
+
+Name: kinect_transform
+Description: Description of kinect_transform
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 

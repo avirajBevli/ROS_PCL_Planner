@@ -1,0 +1,105 @@
+[0m[ INFO] [1591205296.285415491]: Started node
+[0m
+[0m[ INFO] [1591205296.289025579]: Entered findCarTraj function
+[0m
+[0m[ INFO] [1591205369.698092293]: UnSafe!!! 1307 unsafe points found!!!
+[0m
+[0m[ INFO] [1591205370.469848017]: UnSafe!!! 1465 unsafe points found!!!
+[0m
+[0m[ INFO] [1591205371.933357284]: UnSafe!!! 1632 unsafe points found!!!
+[0m
+[0m[ INFO] [1591205372.349056077]: UnSafe!!! 1138 unsafe points found!!!
+[0m
+[0m[ INFO] [1591205372.816658885]: UnSafe!!! 1262 unsafe points found!!!
+[0m
+[0m[ INFO] [1591205373.560482199]: UnSafe!!! 1357 unsafe points found!!!
+[0m
+[0m[ INFO] [1591205374.998557390]: UnSafe!!! 1148 unsafe points found!!!
+[0m
+[0m[ INFO] [1591205376.106958319]: UnSafe!!! 1051 unsafe points found!!!
+[0m
+[0m[ INFO] [1591205376.554572574]: UnSafe!!! 1460 unsafe points found!!!
+[0m
+[0m[ INFO] [1591205383.087062255]: UnSafe!!! 1130 unsafe points found!!!
+[0m
+[0m[ INFO] [1591205383.829256091]: UnSafe!!! 1652 unsafe points found!!!
+[0m
+[0m[ INFO] [1591205384.610077815]: UnSafe!!! 1457 unsafe points found!!!
+[0m
+[0m[ INFO] [1591205385.381465206]: UnSafe!!! 1969 unsafe points found!!!
+[0m
+[0m[ INFO] [1591205386.154853813]: UnSafe!!! 2821 unsafe points found!!!
+[0m
+[0m[ INFO] [1591205386.748635454]: UnSafe!!! 4345 unsafe points found!!!
+[0m
+[0m[ INFO] [1591205387.595172247]: UnSafe!!! 5243 unsafe points found!!!
+[0m
+[0m[ INFO] [1591205388.370048972]: UnSafe!!! 5264 unsafe points found!!!
+[0m
+[0m[ INFO] [1591205388.898281970]: UnSafe!!! 5633 unsafe points found!!!
+[0m
+[0m[ INFO] [1591205389.746631085]: UnSafe!!! 6521 unsafe points found!!!
+[0m
+[0m[ INFO] [1591205391.912278976]: UnSafe!!! 8830 unsafe points found!!!
+[0m
+[0m[ INFO] [1591205392.875240364]: UnSafe!!! 7642 unsafe points found!!!
+[0m
+[0m[ INFO] [1591205393.266106703]: UnSafe!!! 7734 unsafe points found!!!
+[0m
+[0m[ INFO] [1591205393.658408469]: UnSafe!!! 6971 unsafe points found!!!
+[0m
+[0m[ INFO] [1591205394.229330841]: UnSafe!!! 6702 unsafe points found!!!
+[0m
+[0m[ INFO] [1591205394.564063510]: UnSafe!!! 7169 unsafe points found!!!
+[0m
+[0m[ INFO] [1591205395.129542662]: UnSafe!!! 5639 unsafe points found!!!
+[0m
+[0m[ INFO] [1591205395.475137855]: UnSafe!!! 5529 unsafe points found!!!
+[0m
+[0m[ INFO] [1591205395.949013026]: UnSafe!!! 6812 unsafe points found!!!
+[0m
+[0m[ INFO] [1591205396.980284753]: UnSafe!!! 5548 unsafe points found!!!
+[0m
+[0m[ INFO] [1591205397.390032880]: UnSafe!!! 5648 unsafe points found!!!
+[0m
+[0m[ INFO] [1591205397.760439621]: UnSafe!!! 5364 unsafe points found!!!
+[0m
+[0m[ INFO] [1591205398.510843885]: UnSafe!!! 4726 unsafe points found!!!
+[0m
+[0m[ INFO] [1591205399.340426673]: UnSafe!!! 4829 unsafe points found!!!
+[0m
+[0m[ INFO] [1591205400.195191482]: UnSafe!!! 4596 unsafe points found!!!
+[0m
+[0m[ INFO] [1591205401.083539208]: UnSafe!!! 5672 unsafe points found!!!
+[0m
+[0m[ INFO] [1591205402.422885698]: UnSafe!!! 6526 unsafe points found!!!
+[0m
+[0m[ INFO] [1591205403.232876600]: UnSafe!!! 4639 unsafe points found!!!
+[0m
+[0m[ INFO] [1591205404.288119273]: UnSafe!!! 3486 unsafe points found!!!
+[0m
+[0m[ INFO] [1591205405.199251144]: UnSafe!!! 3069 unsafe points found!!!
+[0m
+[0m[ INFO] [1591205406.312157399]: UnSafe!!! 4292 unsafe points found!!!
+[0m
+[0m[ INFO] [1591205407.388904842]: UnSafe!!! 4948 unsafe points found!!!
+[0m
+[0m[ INFO] [1591205408.672528527]: UnSafe!!! 6138 unsafe points found!!!
+[0m
+[0m[ INFO] [1591205410.200348724]: UnSafe!!! 8408 unsafe points found!!!
+[0m
+[0m[ INFO] [1591205412.422088117]: UnSafe!!! 11681 unsafe points found!!!
+[0m
+[0m[ INFO] [1591205413.979119317]: UnSafe!!! 12916 unsafe points found!!!
+[0m
+[0m[ INFO] [1591205414.959695411]: UnSafe!!! 7296 unsafe points found!!!
+[0m
+[0m[ INFO] [1591205416.482866049]: UnSafe!!! 4643 unsafe points found!!!
+[0m
+[0m[ INFO] [1591205497.251552570]: UnSafe!!! 1143 unsafe points found!!!
+[0m
+[0m[ INFO] [1591205498.274013000]: UnSafe!!! 1863 unsafe points found!!!
+[0m
+[0m[ INFO] [1591205498.818570391]: UnSafe!!! 1456 unsafe points found!!!
+[0m
+[0m[ INFO] [1591205

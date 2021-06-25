@@ -1,0 +1,9 @@
+digraph G {
+"odom_local_ned" -> "odom_local_nwu"[label=" Broadcaster: /ned_to_nwu\nAverage rate: 10000.0\nBuffer length: 0.0\nMost recent transform: 0.0\nOldest transform: 0.0\n"];
+"world_nwu" -> "world_ned"[label=" Broadcaster: /ned_to_nwu\nAverage rate: 10000.0\nBuffer length: 0.0\nMost recent transform: 0.0\nOldest transform: 0.0\n"];
+"world_ned" -> "odom_local_ned"[label=" Broadcaster: /publisher_img_cb\nAverage rate: 10.204\nBuffer length: 4.9\nMost recent transform: 1591305746.79\nOldest transform: 1591305741.89\n"];
+edge [style=invis];
+ subgraph cluster_legend { style=bold; color=black; label ="view_frames Result";
+"Recorded at time: 1591305746.89"[ shape=plaintext ] ;
+}->"world_nwu";
+}

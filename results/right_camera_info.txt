@@ -1,0 +1,30 @@
+seq: 0
+stamp: 
+  secs: 0
+  nsecs:         0
+frame_id: "StereoRight/Scene_optical"
+---
+seq: 1
+stamp: 
+  secs: 0
+  nsecs: 1634560303
+frame_id: "StereoRight/Scene_optical"
+---
+seq: 2
+stamp: 
+  secs: 32511
+  nsecs:         1
+frame_id: "StereoRight/Scene_optical"
+---
+seq: 3
+stamp: 
+  secs: 22011
+  nsecs:        33
+frame_id: "StereoRight/Scene_optical"
+---
+seq: 4
+stamp: 
+  secs: 1163019103
+  nsecs: 1027953729
+frame_id: "StereoRight/Scene_optical"
+---

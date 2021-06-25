@@ -1,0 +1,204 @@
+seq: 0
+stamp: 
+  secs: 1590159599
+  nsecs: 905027761
+frame_id: "StereoRight/Scene_optical"
+---
+seq: 1
+stamp: 
+  secs: 1590159600
+  nsecs: 804875990
+frame_id: "StereoRight/Scene_optical"
+---
+seq: 2
+stamp: 
+  secs: 1590159601
+  nsecs: 542592898
+frame_id: "StereoRight/Scene_optical"
+---
+seq: 3
+stamp: 
+  secs: 1590159602
+  nsecs: 329372093
+frame_id: "StereoRight/Scene_optical"
+---
+seq: 4
+stamp: 
+  secs: 1590159603
+  nsecs:  99796585
+frame_id: "StereoRight/Scene_optical"
+---
+seq: 5
+stamp: 
+  secs: 1590159603
+  nsecs: 646930463
+frame_id: "StereoRight/Scene_optical"
+---
+seq: 6
+stamp: 
+  secs: 1590159604
+  nsecs: 383366428
+frame_id: "StereoRight/Scene_optical"
+---
+seq: 7
+stamp: 
+  secs: 1590159605
+  nsecs: 105032047
+frame_id: "StereoRight/Scene_optical"
+---
+seq: 8
+stamp: 
+  secs: 1590159605
+  nsecs: 881505122
+frame_id: "StereoRight/Scene_optical"
+---
+seq: 9
+stamp: 
+  secs: 1590159606
+  nsecs: 627481772
+frame_id: "StereoRight/Scene_optical"
+---
+seq: 10
+stamp: 
+  secs: 1590159607
+  nsecs: 371040492
+frame_id: "StereoRight/Scene_optical"
+---
+seq: 11
+stamp: 
+  secs: 1590159608
+  nsecs: 149494194
+frame_id: "StereoRight/Scene_optical"
+---
+seq: 12
+stamp: 
+  secs: 1590159608
+  nsecs: 864044925
+frame_id: "StereoRight/Scene_optical"
+---
+seq: 13
+stamp: 
+  secs: 1590159609
+  nsecs: 579023845
+frame_id: "StereoRight/Scene_optical"
+---
+seq: 14
+stamp: 
+  secs: 1590159610
+  nsecs: 362764982
+frame_id: "StereoRight/Scene_optical"
+---
+seq: 15
+stamp: 
+  secs: 1590159611
+  nsecs:  14826569
+frame_id: "StereoRight/Scene_optical"
+---
+seq: 16
+stamp: 
+  secs: 1590159611
+  nsecs: 767834543
+frame_id: "StereoRight/Scene_optical"
+---
+seq: 17
+stamp: 
+  secs: 1590159612
+  nsecs: 513868350
+frame_id: "StereoRight/Scene_optical"
+---
+seq: 18
+stamp: 
+  secs: 1590159613
+  nsecs: 334569834
+frame_id: "StereoRight/Scene_optical"
+---
+seq: 19
+stamp: 
+  secs: 1590159614
+  nsecs: 105905065
+frame_id: "StereoRight/Scene_optical"
+---
+seq: 20
+stamp: 
+  secs: 1590159614
+  nsecs: 884864883
+frame_id: "StereoRight/Scene_optical"
+---
+seq: 21
+stamp: 
+  secs: 1590159615
+  nsecs: 544592690
+frame_id: "StereoRight/Scene_optical"
+---
+seq: 22
+stamp: 
+  secs: 1590159616
+  nsecs: 247019727
+frame_id: "StereoRight/Scene_optical"
+---
+seq: 23
+stamp: 
+  secs: 1590159617
+  nsecs:   8806778
+frame_id: "StereoRight/Scene_optical"
+---
+seq: 24
+stamp: 
+  secs: 1590159617
+  nsecs: 746222576
+frame_id: "StereoRight/Scene_optical"
+---
+seq: 25
+stamp: 
+  secs: 1590159618
+  nsecs: 437464654
+frame_id: "StereoRight/Scene_optical"
+---
+seq: 26
+stamp: 
+  secs: 1590159619
+  nsecs: 135121760
+frame_id: "StereoRight/Scene_optical"
+---
+seq: 27
+stamp: 
+  secs: 1590159619
+  nsecs: 849367027
+frame_id: "StereoRight/Scene_optical"
+---
+seq: 28
+stamp: 
+  secs: 1590159620
+  nsecs: 678812234
+frame_id: "StereoRight/Scene_optical"
+---
+seq: 29
+stamp: 
+  secs: 1590159621
+  nsecs: 454833821
+frame_id: "StereoRight/Scene_optical"
+---
+seq: 30
+stamp: 
+  secs: 1590159622
+  nsecs: 206194322
+frame_id: "StereoRight/Scene_optical"
+---
+seq: 31
+stamp: 
+  secs: 1590159623
+  nsecs:  67131472
+frame_id: "StereoRight/Scene_optical"
+---
+seq: 32
+stamp: 
+  secs: 1590159623
+  nsecs: 844528185
+frame_id: "StereoRight/Scene_optical"
+---
+seq: 33
+stamp: 
+  secs: 1590159624
+  nsecs: 631396721
+frame_id: "StereoRight/Scene_optical"
+---

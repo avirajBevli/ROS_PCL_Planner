@@ -1,0 +1,8 @@
+prefix=/home/aviraj/catkin_ws/install
+
+Name: grull_transform_pointcloud
+Description: Description of grull_transform_pointcloud
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 

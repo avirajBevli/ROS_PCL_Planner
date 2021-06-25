@@ -1,0 +1,24 @@
+seq: 0
+stamp: 
+  secs: 1590159599
+  nsecs: 527527209
+frame_id: "StereoLeft_optical"
+---
+seq: 1
+stamp: 
+  secs: 1590159600
+  nsecs: 708695209
+frame_id: "StereoLeft_optical"
+---
+seq: 2
+stamp: 
+  secs: 1590159601
+  nsecs: 447133209
+frame_id: "StereoLeft_optical"
+---
+seq: 3
+stamp: 
+  secs: 1590159602
+  nsecs: 280386209
+frame_id: "StereoLeft_optical"
+---

@@ -1,0 +1,23 @@
+digraph G {
+"PhysXCar/odom_local_ned" -> "DepthCam_body/static"[label=" Broadcaster: /play_1590892338972679057\nAverage rate: 10000.0\nBuffer length: 0.0\nMost recent transform: 0.0\nOldest transform: 0.0\n"];
+"PhysXCar" -> "StereoRight_body"[label=" Broadcaster: /play_1590892338972679057\nAverage rate: 1.456\nBuffer length: 4.122\nMost recent transform: 1590159745.88\nOldest transform: 1590159741.76\n"];
+"PhysXCar" -> "StereoLeft_optical"[label=" Broadcaster: /play_1590892338972679057\nAverage rate: 1.459\nBuffer length: 4.114\nMost recent transform: 1590159745.66\nOldest transform: 1590159741.55\n"];
+"PhysXCar/odom_local_ned" -> "StereoRight_body/static"[label=" Broadcaster: /play_1590892338972679057\nAverage rate: 10000.0\nBuffer length: 0.0\nMost recent transform: 0.0\nOldest transform: 0.0\n"];
+"PhysXCar" -> "DepthCam_optical"[label=" Broadcaster: /play_1590892338972679057\nAverage rate: 1.37\nBuffer length: 4.379\nMost recent transform: 1590159745.56\nOldest transform: 1590159741.18\n"];
+"PhysXCar/odom_local_ned" -> "StereoRight_optical/static"[label=" Broadcaster: /play_1590892338972679057\nAverage rate: 10000.0\nBuffer length: 0.0\nMost recent transform: 0.0\nOldest transform: 0.0\n"];
+"PhysXCar/odom_local_ned" -> "PhysXCar/odom_local_nwu"[label=" Broadcaster: /adding_frame\nAverage rate: 10.204\nBuffer length: 4.9\nMost recent transform: 1590892494.72\nOldest transform: 1590892489.82\n"];
+"PhysXCar/odom_local_ned" -> "StereoLeft_body/static"[label=" Broadcaster: /play_1590892338972679057\nAverage rate: 10000.0\nBuffer length: 0.0\nMost recent transform: 0.0\nOldest transform: 0.0\n"];
+"PhysXCar/odom_local_ned" -> "Lidar3D"[label=" Broadcaster: /play_1590892338972679057\nAverage rate: 10000.0\nBuffer length: 0.0\nMost recent transform: 0.0\nOldest transform: 0.0\n"];
+"world_ned" -> "PhysXCar"[label=" Broadcaster: /play_1590892338972679057\nAverage rate: 10000.0\nBuffer length: 0.0\nMost recent transform: 0.0\nOldest transform: 0.0\n"];
+"world_ned" -> "world_enu"[label=" Broadcaster: /play_1590892338972679057\nAverage rate: 10.195\nBuffer length: 4.904\nMost recent transform: 1590159746.09\nOldest transform: 1590159741.18\n"];
+"PhysXCar" -> "StereoLeft_body"[label=" Broadcaster: /play_1590892338972679057\nAverage rate: 1.459\nBuffer length: 4.114\nMost recent transform: 1590159745.66\nOldest transform: 1590159741.55\n"];
+"PhysXCar" -> "StereoRight_optical"[label=" Broadcaster: /play_1590892338972679057\nAverage rate: 1.456\nBuffer length: 4.122\nMost recent transform: 1590159745.88\nOldest transform: 1590159741.76\n"];
+"PhysXCar/odom_local_ned" -> "StereoLeft_optical/static"[label=" Broadcaster: /play_1590892338972679057\nAverage rate: 10000.0\nBuffer length: 0.0\nMost recent transform: 0.0\nOldest transform: 0.0\n"];
+"PhysXCar/odom_local_ned" -> "DepthCam_optical/static"[label=" Broadcaster: /play_1590892338972679057\nAverage rate: 10000.0\nBuffer length: 0.0\nMost recent transform: 0.0\nOldest transform: 0.0\n"];
+"PhysXCar" -> "PhysXCar/odom_local_ned"[label=" Broadcaster: /play_1590892338972679057\nAverage rate: 48.736\nBuffer length: 4.76\nMost recent transform: 1590159745.94\nOldest transform: 1590159741.18\n"];
+"PhysXCar" -> "DepthCam_body"[label=" Broadcaster: /play_1590892338972679057\nAverage rate: 1.37\nBuffer length: 4.379\nMost recent transform: 1590159745.56\nOldest transform: 1590159741.18\n"];
+edge [style=invis];
+ subgraph cluster_legend { style=bold; color=black; label ="view_frames Result";
+"Recorded at time: 1590892494.82"[ shape=plaintext ] ;
+}->"world_ned";
+}

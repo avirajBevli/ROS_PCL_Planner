@@ -1,0 +1,174 @@
+seq: 0
+stamp: 
+  secs: 1590159603
+  nsecs: 235571209
+frame_id: "StereoRight_optical"
+---
+seq: 1
+stamp: 
+  secs: 1590159603
+  nsecs: 783684209
+frame_id: "StereoRight_optical"
+---
+seq: 2
+stamp: 
+  secs: 1590159604
+  nsecs: 520059209
+frame_id: "StereoRight_optical"
+---
+seq: 3
+stamp: 
+  secs: 1590159605
+  nsecs: 241822209
+frame_id: "StereoRight_optical"
+---
+seq: 4
+stamp: 
+  secs: 1590159606
+  nsecs:  18482209
+frame_id: "StereoRight_optical"
+---
+seq: 5
+stamp: 
+  secs: 1590159606
+  nsecs: 764674209
+frame_id: "StereoRight_optical"
+---
+seq: 6
+stamp: 
+  secs: 1590159607
+  nsecs: 507600209
+frame_id: "StereoRight_optical"
+---
+seq: 7
+stamp: 
+  secs: 1590159608
+  nsecs: 286088209
+frame_id: "StereoRight_optical"
+---
+seq: 8
+stamp: 
+  secs: 1590159609
+  nsecs:    645209
+frame_id: "StereoRight_optical"
+---
+seq: 9
+stamp: 
+  secs: 1590159609
+  nsecs: 715137209
+frame_id: "StereoRight_optical"
+---
+seq: 10
+stamp: 
+  secs: 1590159610
+  nsecs: 499869209
+frame_id: "StereoRight_optical"
+---
+seq: 11
+stamp: 
+  secs: 1590159611
+  nsecs: 150063209
+frame_id: "StereoRight_optical"
+---
+seq: 12
+stamp: 
+  secs: 1590159611
+  nsecs: 903013209
+frame_id: "StereoRight_optical"
+---
+seq: 13
+stamp: 
+  secs: 1590159612
+  nsecs: 651090209
+frame_id: "StereoRight_optical"
+---
+seq: 14
+stamp: 
+  secs: 1590159613
+  nsecs: 462389209
+frame_id: "StereoRight_optical"
+---
+seq: 15
+stamp: 
+  secs: 1590159614
+  nsecs: 242990209
+frame_id: "StereoRight_optical"
+---
+seq: 16
+stamp: 
+  secs: 1590159615
+  nsecs:  21332209
+frame_id: "StereoRight_optical"
+---
+seq: 17
+stamp: 
+  secs: 1590159615
+  nsecs: 680693209
+frame_id: "StereoRight_optical"
+---
+seq: 18
+stamp: 
+  secs: 1590159616
+  nsecs: 383369209
+frame_id: "StereoRight_optical"
+---
+seq: 19
+stamp: 
+  secs: 1590159617
+  nsecs: 145430209
+frame_id: "StereoRight_optical"
+---
+seq: 20
+stamp: 
+  secs: 1590159617
+  nsecs: 882678209
+frame_id: "StereoRight_optical"
+---
+seq: 21
+stamp: 
+  secs: 1590159618
+  nsecs: 573306209
+frame_id: "StereoRight_optical"
+---
+seq: 22
+stamp: 
+  secs: 1590159619
+  nsecs: 270750209
+frame_id: "StereoRight_optical"
+---
+seq: 23
+stamp: 
+  secs: 1590159619
+  nsecs: 986277209
+frame_id: "StereoRight_optical"
+---
+seq: 24
+stamp: 
+  secs: 1590159620
+  nsecs: 815953209
+frame_id: "StereoRight_optical"
+---
+seq: 25
+stamp: 
+  secs: 1590159621
+  nsecs: 591276209
+frame_id: "StereoRight_optical"
+---
+seq: 26
+stamp: 
+  secs: 1590159622
+  nsecs: 342899209
+frame_id: "StereoRight_optical"
+---
+seq: 27
+stamp: 
+  secs: 1590159623
+  nsecs: 203047209
+frame_id: "StereoRight_optical"
+---
+seq: 28
+stamp: 
+  secs: 1590159623
+  nsecs: 980072209
+frame_id: "StereoRight_optical"
+---

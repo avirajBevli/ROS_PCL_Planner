@@ -1,0 +1,2 @@
+kinect-transform-publisher:my_pcl_tutorial
+-DCATKIN_DEVEL_PREFIX=/home/aviraj/catkin_ws/devel -DCMAKE_INSTALL_PREFIX=/home/aviraj/catkin_ws/install -G Unix Makefiles
